@@ -57,11 +57,12 @@ p {
     align-items: center;
 }
 
-.header-brand {
+.header-brand a {
     color: #fff;
     font-size: 1.6rem;
     font-weight: 700;
     text-transform: uppercase;
+    text-decoration: none;
 }
 
 .header-logo img {
